@@ -1,0 +1,21 @@
+body {
+  background-color: rgba(245, 236, 136, 0.804);
+  background-size: cover;
+  text-align: center;
+}
+
+#board {
+  height: 532px;
+  width: 475px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(240, 170, 170);
+  border: 10px solid rgb(138, 79, 79);
+}
+
+.card {
+  height: 125px;
+  width: 89px;
+  margin: 3px;
+}
